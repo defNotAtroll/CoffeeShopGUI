@@ -38,3 +38,6 @@ New
 Added refresh button for the table✓
 Added a new Welcome page which has log in and guest log in albeit not yet implemented. There is a start button though that will take you to the main page✓
 The exit button now resets the pending orders on table on mysql to avoid left over data after exiting✓
+
+5/10/2025
+Added the database from xampp mysql (.sql)✓
