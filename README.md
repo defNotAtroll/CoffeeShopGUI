@@ -41,3 +41,13 @@ The exit button now resets the pending orders on table on mysql to avoid left ov
 
 5/10/2025
 Added the database from xampp mysql (.sql)✓
+
+5/11/2025
+All are now functional✓
+Removed the Welcome page and used it for Products's page
+Added Previous and Next button to go back and forth between the two pages✓
+Added Textfields where you can put the Queue no. of the product for Cancel and Complete order. Both are now functional✓
+Added a new Revenue Textfield where you can see the total sales✓
+
+Problems:
+No designs yet, No hoes yet and some Finalization and Code cleaning. 
